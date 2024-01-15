@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/zrbecker/terminator"
+	"github.com/zrbecker/go-terminator"
 )
 
 func main() {
